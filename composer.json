@@ -1,0 +1,6 @@
+{
+    "require": {
+        "chrome-php/chrome": "^1.16",
+        "voku/simple_html_dom": "^5.1"
+    }
+}
